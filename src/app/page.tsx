@@ -140,7 +140,7 @@ export default function Home() {
         </NextLink>
       </ChakraLink>
 
-      <Text fontSize={"sm"}>© 2026 AutoShine Estética Automotiva. Todos os direitos reservados.</Text>
+      <Text shadow="2xl" fontSize={"sm"}>© 2026 AutoShine Estética Automotiva. Todos os direitos reservados.</Text>
       
     </VStack>
     </>
